@@ -1,4 +1,4 @@
-# Deteccion-de-objetos-JAVEX
+# Deteccion de objetos JAVEX
 ## Integrantes
 Nicolas Garcia Ramirez, Maria Lucia Peña Martinez y Daniel Alejandro Vergara Diaz
 ## Objetivo
