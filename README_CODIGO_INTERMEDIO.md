@@ -1,2 +1,2 @@
 ## Librerias utilizadas 
-Python 3.12, Numpy, OpenCV2
+Python 3.12, Numpy y OpenCV2
