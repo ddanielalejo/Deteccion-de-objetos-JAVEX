@@ -21,5 +21,5 @@ Se dibuja un rectangulo alrededor del contorno y se calcula las coordenadas del 
 Se calcula la distancia aproximada como una relacion inversa con el ancho del rectangulo (distancia= 100/w). Se utiliza el valor 100 ya que es un factor arbitrario para pruebas preeliminares.
 ### Etiquetas visuales
 Muestra el numero del anillo detectado con su respectiva distancia utilizando la funcion cv2.putText.
-### Ejecucion del programa
+### Finalizacion del programa
 Muestra el fotograma procesado en una ventana y le pregunta al usuario si quiere salir del bucle presionando la letra 'q'. Si presiona esa tecla entonces se libera la camara y se cierran todas las ventanas.
